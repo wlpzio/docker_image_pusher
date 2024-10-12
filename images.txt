@@ -3,4 +3,4 @@ mysql
 redis
 minio/minio
 nacos/nacos-server
-
+python:alpine3.19
